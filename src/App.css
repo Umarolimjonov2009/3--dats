@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.box{
+    background-color: red;
+    height: 100vh;
+}
+.box-bola{
+    width: 650px;
+    height: 450px;
+    background-color: #616161;
+    box-shadow: 0px 4px 4px 0px #00000040;
+    margin: 100px auto;
+    padding: 50px;
+    border-radius: 30px;
+    text-align: left;
+}
+p{
+    margin-top: 20px;
+    font-size: 40px;
+}
+h2{
+    margin-top: 20px;
+    font-size: 30px;
+}
+h3{
+    margin-top: 20px;
+    font-size: 25px;
+}
